@@ -2,8 +2,8 @@
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/qHhv19R3E0s/0.jpg)](http://www.youtube.com/watch?v=qHhv19R3E0s "Python For Accountants 2022 | 1.1 Introduction")
 
 Download the 2 course files required for my programming course: Python For Accountants
-  cleaning.csv
-  supermarket.csv
+- cleaning.csv
+- supermarket.csv
 
 You won't need these until you get to the Data Analytics / Pandas chapter, but you might as well download them now :)
 
