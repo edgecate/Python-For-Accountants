@@ -2,7 +2,7 @@
 
 Watch the Course Introduction on YT:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/qHhv19R3E0s/0.jpg)](http://www.youtube.com/watch?v=GDqu6qduThE "Python For Accountants 2022 | 1.1 Introduction")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GDqu6qduThE/0.jpg)](http://www.youtube.com/watch?v=GDqu6qduThE "Python For Accountants 2022 | 1.1 Introduction")
 
 Download the 2 course files required for my programming course: Python For Accountants
 - cleaning.csv
